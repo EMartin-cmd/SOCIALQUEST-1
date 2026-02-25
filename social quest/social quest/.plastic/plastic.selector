@@ -1,0 +1,4 @@
+repository "social quest/social quest@4673855074164@cloud"
+  path "/"
+    br "/main"
+    co "/main"
